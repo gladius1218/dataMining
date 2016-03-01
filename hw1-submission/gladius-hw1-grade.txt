@@ -1,0 +1,11 @@
+Q1: JSON object             5/5
+Q2: 1/1/2015 creation_dates 5/5
+Q3: question_dataframe.csv  10/10
+Q4: Users distance matrix   28/30 (ZeroDivisionError when denom=0)
+Q5: Users plt               10/10
+Q6: Timeseries              30/30
+Q7: Timeseries plt          10/10
+
+Total:                      98/100
+
+commit e45e02d5ac969fa3de74d915ea4df7f6703b3ba5
